@@ -61,4 +61,5 @@ SELECT name
 FROM city
 WHERE population = 91084;
 
--- Santa Monica
+-- Santa Monica, California, USA
+-- In other words, she is in Santa Monica, California!
