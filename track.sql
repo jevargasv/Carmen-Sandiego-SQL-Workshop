@@ -1,3 +1,5 @@
+-- Carmen Sandiego SQL Workshop
+
 SELECT name, population, code FROM country WHERE
 region = "Southern Europe"
 ORDER BY
